@@ -1,6 +1,6 @@
 ### Hello Github World!
 
-I should probably say something witty here ... nah.
+I should probably say something witty here ... maybe later.
 
 Some technologies I'm familiar with / working with:
  - Languages: C#, SQL, HTML 5, CSS 3, JavaScript, Stylus, VB, Ruby on Rails, Cold Fusion, ASP, AJAX, C/C++, Ada, COBOL
