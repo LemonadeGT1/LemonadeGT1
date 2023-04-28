@@ -7,7 +7,8 @@ Some technologies I'm familiar with / working with:
  - Operating Systems: Windows; UNIX; Linux, DOS
  - Databases: MySQL, Oracle, MS SQL Server, MS Access, MongoDB
 
-
+Social Media Links:
+ - [LinkedIn](https://www.linkedin.com/in/michaelppatience/)
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
