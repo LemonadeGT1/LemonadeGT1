@@ -1,14 +1,13 @@
 ### Hello Github World!
 
+I should probably say something witty here ... nah.
+
 Some technologies I'm familiar with / working with:
  - Languages: C#, SQL, HTML 5, CSS 3, JavaScript, Stylus, VB, Ruby on Rails, Cold Fusion, ASP, AJAX, C/C++, Ada, COBOL
  - Frameworks / Technologies: .Net, jQuery, Bootstrap, Vue, Web API, Node.js
  - Software: Microsoft Visual Studio, MS Office; Open Office; Adobe Creative Suite, Reader; Cold Fusion Studio; InstallShield; RAZOR
  - Operating Systems: Windows; UNIX; Linux, DOS
  - Databases: MySQL, Oracle, MS SQL Server, MS Access, MongoDB
-
-Social Media Links:
- - [LinkedIn](https://www.linkedin.com/in/michaelppatience/)
 
 <div>
   <a href="https://github.com/LemonadeGT1/LemonadeGT1" align="left">
