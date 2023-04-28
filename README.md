@@ -1,4 +1,4 @@
-### Hello World!
+### Hello Github World!
 
 Some technologies I'm familiar with / working with:
  - Languages: C#, SQL, HTML 5, CSS 3, JavaScript, Stylus, VB, Ruby on Rails, Cold Fusion, ASP, AJAX, C/C++, Ada, COBOL
@@ -9,6 +9,17 @@ Some technologies I'm familiar with / working with:
 
 Social Media Links:
  - [LinkedIn](https://www.linkedin.com/in/michaelppatience/)
+
+<div>
+  <a href="https://github.com/LemonadeGT1/LemonadeGT1" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonadeGT1&text_color=586069&layout=compact&hide_border=true&bg_color=fff&title_color=0366d6&count_private=true&include_all_commits=true" />
+  </a>
+
+  <a href="https://github.com/LemonadeGT1/LemonadeGT1" align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=LemonadeGT1&count_private=true&show_icons=true&icon_color=222&title_color=0366d6&text_color=586069&bg_color=fff&hide=issues&hide_border=true&include_all_commits=true" />
+  </a>
+</div>
+
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
